@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom"; // Us
 import LoginPage from "./pages/LoginPage";
 import PantryPage from "./pages/PantryPage";
 import RegisterPage from "./pages/RegisterPage"; // Importamos la nueva página de registro
-import RecipesPage from "./pages/RecipesPage.JSX";
+import RecipesPage from "./pages/RecipesPage";
 import Main from "./pages/MainPage";
 const App = () => {
   return (
